@@ -1,3 +1,5 @@
 Here below is my brief Introduction:
 I am a professional Web Developer.
 I start my carrier in 2003 after completing my BCS from Hamdard University Karachi.
+I built Inventory System of Rana Textile Mills as my BCS Final Project (CGPA 2.79)
+My first job is in Bismillah Textile Mills as Weaving Software Operator developed in Oracle.
